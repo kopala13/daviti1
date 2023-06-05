@@ -1,0 +1,28 @@
+.jokeri{height: 300px;
+}
+.jp{text-aling:right;color:white;
+}
+.dato{
+    height: 300px;
+}
+.dd{
+    height: 300px;
+}
+.gg{
+    height: 300px;
+}
+body {
+ background-image: url("https://talkstar-assets.s3.amazonaws.com/production/playlists/playlist_508/tv_movie_icons_1200x627.jpg");
+ background-color: #cccccc;
+}
+.flf{
+    height: 150px;
+    width: 900px;
+}
+table,td{
+    border:2px solid black;
+}
+body{
+    color:white;
+    font-size:20px;
+}
